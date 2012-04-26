@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Seyhun Akyurek"]
   s.email       = ["seyhunak@gmail.com"]
-  s.homepage    = "https://github.com/seyhunak/twitter-bootstrap-rails"
+  s.homepage    = "https://github.com/advanced/twitter-bootstrap-rails"
   s.summary     = %q{Bootstrap CSS toolkit for Rails 3.1 Asset Pipeline}
   s.description = %q{twitter-bootstrap-rails project integrates Bootstrap CSS toolkit for Rails 3.1 Asset Pipeline}
 
